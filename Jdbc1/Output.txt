@@ -1,0 +1,178 @@
+Output:
+
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+1
+Enter the employee name and salary:
+sakthivel
+60000
+Record inserted successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+1
+Enter the employee name and salary:
+terrance
+66000
+Record inserted successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+1
+Enter the employee name and salary:
+santhosh
+65000
+Record inserted successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+1
+Enter the employee name and salary:
+deva
+70000
+Record inserted successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+4
+======================================
+	EMPLOYEES DETAILS
+======================================
+5         Sakthivel      68000.0        
+6         terrance       66000.0        
+7         santhosh       65000.0        
+8         deva           70000.0        
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+2
+Enter the ID,name,salary of the employee:
+6
+Terrance
+69000
+Record updated successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+4
+======================================
+	EMPLOYEES DETAILS
+======================================
+5         Sakthivel      68000.0        
+6         Terrance       69000.0        
+7         santhosh       65000.0        
+8         deva           70000.0        
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+3
+Enter the employee ID:
+8
+Record removed successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+4
+======================================
+	EMPLOYEES DETAILS
+======================================
+5         Sakthivel      68000.0        
+6         Terrance       69000.0        
+7         santhosh       65000.0        
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+1
+Enter the employee name and salary:
+Devaraja
+80000
+Record inserted successfully!
+Do you want to continue?press(y/n):
+y
+CRUD OPERATIONS 
+======================
+1.ADD EMPLOYEE
+2.UPDATE EMPLOYEE
+3.DELETE EMPLOYEE
+4.SHOW EMPLOYEES
+5.EXIT
+Enter your choice(1-5):
+4
+======================================
+	EMPLOYEES DETAILS
+======================================
+5         Sakthivel      68000.0        
+6         Terrance       69000.0        
+7         santhosh       65000.0        
+9         Devaraja       80000.0        
+Do you want to continue?press(y/n):
+n
